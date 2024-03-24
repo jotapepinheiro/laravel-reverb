@@ -3,6 +3,10 @@
 - [Pulse][l-pulse]
 - [Livewire][l-livewire]
 
+## TODO
+- [ ] Deixar o projeto somente com o Reverb
+- [ ] Criar as configurações de ambiente Nginx somente com o Reverb
+
 ### Iniciar Reverb
 > php artisan reverb:start
 
